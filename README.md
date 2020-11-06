@@ -13,7 +13,7 @@ Microscopic traffic simulation was used for a portion of the project. The projec
 
 The performance measure calculation methodology and associated computational tools are described [here](https://swashsim.miraheze.org/wiki/Tutorial_Ramp_Metering_Measures).
 
-# Ramp metering locations
+## Ramp metering locations
 
 * Florida ramp metering locations
 * Sample of ramp metering locations throughout the U.S.
