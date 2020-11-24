@@ -15,8 +15,6 @@ The performance measure calculation methodology and associated computational too
 
 ## Ramp metering locations
 
-* Florida ramp metering locations
-* Sample of ramp metering locations throughout the U.S.
-
-
-
+* <a href="MapFiles\FDOT Ramp Meter Locations.kmz">Florida ramp metering locations</a>
+* <a href="MapFiles\Sample of Ramp Metering Locations">Sample of ramp metering locations throughout the U.S.</a>
+* <a href="MapFiles\Example Project Interchange Configurations.kmz">Example Project Interchange Configurations</a>
